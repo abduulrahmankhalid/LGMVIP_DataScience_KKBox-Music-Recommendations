@@ -6,5 +6,5 @@ This repository is part of LetsGrowMore Data Science internship.
 
 Project #2 : KKBox Music Recommendation 
 
-### Kaggle Notebook : 
+### Kaggle Notebook : https://www.kaggle.com/code/abduulrahmankhalid/kkbox-music-recommendations-with-boostings
 ### Demo Video : 
