@@ -4,7 +4,7 @@
 
 This repository is part of LetsGrowMore Data Science internship.
 
-Project #1 : KKBox Music Recommendation 
+Project #2 : KKBox Music Recommendation 
 
 ### Kaggle Notebook : 
 ### Demo Video : 
